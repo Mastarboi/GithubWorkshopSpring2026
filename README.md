@@ -1,8 +1,9 @@
 # GithubWorkshopSpring2026
 CodingBat and Github command practice, welcome!
+Thank you so much for joining WIT and ACM at UAB, we hope this this help you be more confident in your git skills!
 
 # Go here to learn how to fork a repository and create your own branch:
-- 
+- https://github.com/UABWIT/first-contribution-uab
 
 # Python Problems
 - https://codingbat.com/prob/p173401
