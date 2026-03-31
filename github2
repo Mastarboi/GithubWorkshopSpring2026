@@ -1,0 +1,12 @@
+public int sumDouble(int a, int b) {
+  int temp = 0;
+  if (a==b)
+  {
+    temp = (a+b)*2;
+  }
+  else
+  {
+    temp = a+b;
+  }
+  return temp;
+}
