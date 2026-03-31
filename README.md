@@ -1,4 +1,4 @@
-# GithubWorkshopSpring2026
+# Github Workshop Spring 2026
 CodingBat and Github command practice, welcome!
 Thank you so much for joining WIT and ACM at UAB, we hope this this help you be more confident in your git skills!
 
